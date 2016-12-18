@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "54471795679",
+    "firebase_url": "https://tabbedpractice.firebaseio.com",
+    "project_id": "tabbedpractice",
+    "storage_bucket": "tabbedpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54471795679:android:115949c58152c822",
+        "android_client_info": {
+          "package_name": "com.example.jenis.tabbedactivityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54471795679-o0itj5b95ot9rcpsm69isbb4kciedk2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBStA_L9srxI8ygcrWbdvF8RBdwBD0WiPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

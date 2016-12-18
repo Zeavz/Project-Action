@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="white">#FFFFFF</color>color>
+    <color name="background">#6c94e4</color>color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="PhillipsOrange">#f26c4f</color>
+    <color name="PhillipsDarkerOrange">#eb6450</color>
+
+</resources>
